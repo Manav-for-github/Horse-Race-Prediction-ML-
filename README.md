@@ -39,7 +39,7 @@ Heatmaps for correlation visualization.
 
 ## 6. Modeling Approach
 ### Model Selection:
-Evaluate various machine learning models (e.g.,Regression, Random Forest, Gradient Boosting, Neural Networks).
+Evaluate various machine learning models (e.g.,Regression, Random Forest).
 Use cross-validation to assess model performance.
 ### Handling Imbalanced Data:
 Use techniques such as SMOTE (Synthetic Minority Over-sampling Technique), under-sampling, and class weight adjustments.
